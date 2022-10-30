@@ -92,11 +92,12 @@
             <thead>
               <tr style="transform: translateX(0);">
                 <th colspan="2" style="padding-bottom: 0; padding-left: 4px;">
-                  <svg class="logo" width="32" height="25" viewBox="0 0 32 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!--                   <svg class="logo" width="32" height="25" viewBox="0 0 32 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <rect y="6" width="8" height="18.125" rx="2" fill="#FFC107" />
                     <rect x="24" y="10.125" width="8" height="14" rx="2" fill="#F44336" />
                     <rect x="12" width="8" height="24.125" rx="2" fill="#2196F3" />
-                  </svg>  's CodeForces Stats
+                  </svg>   -->
+                  <b>Zayed</b>'s CodeForces Stats
                 </th>
               </tr>
               <tr>
